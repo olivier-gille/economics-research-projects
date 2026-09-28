@@ -1,4 +1,4 @@
-# Travaux de recherche en économie
+# Travaux de recherche en économie - Olivier GILLE
 
 Travaux de recherche réalisés pendant mon master d'économie (Université Lyon 2 et emlyon business school), en économie appliquée, macroéconomie et économétrie. Les estimations et simulations sont réalisées sous Python, R et MATLAB (Dynare). Chaque projet est disponible en PDF : cliquez sur le fichier correspondant pour le télécharger.
 
