@@ -30,4 +30,4 @@ J'examine un modèle de croissance endogène avec rigidités salariales, dette p
 
 ## Auteur
 
-Olivier Gille — [LinkedIn]([https://www.linkedin.com/in/olivier-gille](https://www.linkedin.com/in/olivier-gille-6825b8201/?locale=fr-FR))
+Olivier Gille — https://www.linkedin.com/in/olivier-gille-6825b8201/?locale=fr-FR
