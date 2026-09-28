@@ -1,30 +1,33 @@
-# Economics Research Projects
+# Travaux de recherche en économie
 
-Graduate-level research projects in applied economics, macroeconomics and econometrics.
+Travaux de recherche réalisés pendant mon master d'économie (Université Lyon 2 et emlyon business school), en économie appliquée, macroéconomie et économétrie. Les estimations et simulations sont réalisées sous Python, R et MATLAB (Dynare). Chaque projet est disponible en PDF : cliquez sur le fichier correspondant pour le télécharger.
 
-## Projects
+## Projets
 
-### Master's Thesis — The Effect of Class Size on Student Achievement
-**Instrumental variables estimation: a replication of Angrist & Lavy (1999) and an extension on social heterogeneity**  
-Master's Thesis (M2), academic year 2025–2026.
+### Mémoire de M2 — L'effet de la taille des classes sur la réussite scolaire
+**Estimation par variables instrumentales : réplication d'Angrist & Lavy (1999) et extension sur l'hétérogénéité sociale**  
+Mémoire de master 2, année universitaire 2025-2026. Rédigé en anglais, travaux empiriques sous Python.
 
-The thesis reviews the empirical literature on class-size effects, presents the instrumental-variables framework, replicates Angrist & Lavy (1999), and extends the analysis to social heterogeneity and failure rates.
+Je passe en revue la littérature empirique sur les effets de la taille des classes, je présente la méthode des variables instrumentales, je réplique les résultats d'Angrist & Lavy (1999), puis j'étends l'analyse à l'hétérogénéité sociale des effets et aux taux d'échec.
 
-### Climate, Growth and Macroeconomic Controls
-**International panel evidence, 1998–2024**
+### Climat, croissance et contrôles macroéconomiques
+**Résultats sur un panel international, 1998-2024**  
+Construction de la base et estimations sous Python.
 
-Empirical panel-data analysis combining climate anomalies with macroeconomic and institutional controls, including pooled OLS, country and year fixed effects, income-group heterogeneity, nonlinear specifications, and lagged climate effects.
+J'analyse le lien entre climat et croissance sur données de panel, en combinant des anomalies climatiques (CRU TS) avec des contrôles macroéconomiques et institutionnels (Banque mondiale). Le travail compare une estimation pooled OLS et un modèle à effets fixes pays et année, avec erreurs standards clusterisées, puis teste l'hétérogénéité selon le niveau de revenu, des spécifications non linéaires et des effets climatiques retardés.
 
-### New Keynesian Model at the Zero Lower Bound
-**Replication and analysis of Braun & Körber (2011), calibrated to Japan**
+### Un modèle néo-keynésien à la borne zéro des taux d'intérêt
+**Réplication et analyse de Braun & Körber (2011), calibré sur le Japon**  
+Résolution numérique sous MATLAB avec Dynare.
 
-Study of a New Keynesian model under the zero lower bound, focusing on household expectations, impulse responses, fiscal multipliers, and the Japanese ZLB episode.
+J'étudie le comportement d'un modèle néo-keynésien lorsque le taux d'intérêt nominal est bloqué à zéro. Je retrouve les conditions du premier ordre, je vérifie la fermeture du système, et j'analyse les anticipations des ménages, les fonctions de réponse aux chocs, les multiplicateurs budgétaires et l'épisode japonais de taux zéro.
 
-### Sustainable Public Debt and Economic Growth under Wage Rigidity
-**A review of Greiner (2013)**
+### Dette publique soutenable et croissance en présence de rigidités salariales
+**Note de lecture sur Greiner (2013)**  
+Rédigée en anglais.
 
-Review of an endogenous-growth model with wage rigidities, public debt, unemployment and fiscal stability, with discussion of balanced growth paths and debt neutrality.
+J'examine un modèle de croissance endogène avec rigidités salariales, dette publique et chômage. La note discute les sentiers de croissance équilibrée, la neutralité de la dette pour la croissance de long terme et les conditions de stabilité budgétaire, et confronte ces résultats à la littérature empirique sur les fonctions de réaction budgétaire.
 
-## Author
+## Auteur
 
-Olivier Gille
+Olivier Gille — [LinkedIn](https://www.linkedin.com/in/olivier-gille)
