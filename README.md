@@ -4,7 +4,7 @@ Travaux de recherche réalisés pendant mon master d'économie (Université Lyon
 
 ## Projets
 
-### Mémoire de M2 — L'effet de la taille des classes sur la réussite scolaire
+### Mémoire de M2 : L'effet de la taille des classes sur la réussite scolaire
 **Estimation par variables instrumentales : réplication d'Angrist & Lavy (1999) et extension sur l'hétérogénéité sociale**  
 Mémoire de master 2, année universitaire 2025-2026. Rédigé en anglais, travaux empiriques sous Python.
 
